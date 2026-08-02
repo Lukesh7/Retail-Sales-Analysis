@@ -51,7 +51,7 @@ across every tool in this project:
 - **Furniture** generates nearly as much revenue as Office Supplies, but a fraction of the profit — driven almost entirely by the **Tables** sub-category, which loses money outright.
 - Discounts above **20%** push average profit negative; 0–10% is the healthiest range.
 
-Full analysis and recommendations: [`report/Business_Report.pdf`](report/Business_Report.pdf)
+Full analysis and recommendations: [`reports/Business_Report.pdf`](reports/Business_Report.pdf)
 
 ## 🛠️ Tools & Techniques
 
